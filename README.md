@@ -1,6 +1,6 @@
 # quiz-catchup-assignment-optional---autogluon
 
-Multi Label :
+Multi Label : https://colab.research.google.com/drive/1i3ebQeknN3GK2HGWzO_NymPcdhKFxj3y?usp=sharing
 
 Autogluon with gpu
 
