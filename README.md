@@ -19,7 +19,7 @@ image classifier
 
  zero shot classification
 
- image object detection
+ image object detection   https://colab.research.google.com/drive/1gxxtHF2sfHkpOfcispPmzaVpuj9bnvYJ?usp=sharing
 
  image segmentation
 
